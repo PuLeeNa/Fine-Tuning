@@ -17,7 +17,7 @@ Each model directory contains:
 
 ## Getting Started
 
-Navigate to the specific model directory and follow the instructions in the respective README or notebook.
+Navigate to the specific model directory and follow instructions in the respective README or notebook.
 
 ## Requirements
 
